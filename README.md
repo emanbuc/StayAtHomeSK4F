@@ -1,5 +1,5 @@
 # Stay@Home Survival Kit for Families (#Stay@HomeSK4F)
-*Stay@HomeSK4F* is an online community created to help families with young children spend the days of forced stay together in the most serene way possible.
+*Stay@HomeSK4F * is a controlled repository and an online community created to help families with children spend their forced stay at home in the most serene way possible
 
 ## Inspiration (Why and Who)
 The project was created during the hackathon [EUvsVirus](https://euvsvirus.org) by a team of three. We are three parents with children aged between 2 and 4 who try to reconcile work duties with the family life. When The European Commission lauched a pan-European hackathon in order to develop innovative solutions for coronavirus-related challenges, we were already struggling day by day to find hacks to manage remote working, social distancing, business lockdown and school closure.  
@@ -31,16 +31,14 @@ Thanks to the Internet we have found many useful resources, some excellent, othe
 To satisfy this widespread need, we thought of creating the *Stay @ Home Kit For Families project*
 
 ## What it does
+*Stay@HomeSK4F * is a controlled repository and an online community created to help families with children spend their forced stay at home in the most serene way possible. The two main functions of the platform are *the vetted repository with high quality resources* and the *tools to allow relationships and social interactions* to be maintained even while staying at home
 
-Stay@HomeSK4F allows to maintain a high level of social interaction through **various channels and many multimedia communication tools** even without leaving home. 
+The online platform for the community includes a content management system with feedback, comments, moderation, crowd voting, gamefication, content calatalog, advanced search, communication and communication tools and more. 
 
-The online platform for the community includes a content management system with feedback, comments, moderation, crowd voting, gamefication,  content calatalog, advanced search, and more. 
-Other widespread tools product and services are included using plugin and connectors. We have plan to integrate with application for training , virtual classroom, instant messaging , audio and video call, live event, virtual laboratory for collaborative and interactive experiment,  multiplayer game environment.
+### The repository
+Stay@HomeSK4F helps parents organize educational and engaging activities for their children by providing a **rich library** of educational paths, guides, games, courses, tutorials, experiments, books, articles and other resources of very high quality. All resources are organized by categories and age groups and tagged with topics for quicker search.
 
-
-Families, groups of friends, schools, associations and other types of communities can create **private groups** on Stay@HomeSK4F and use the tools of the platform to continue their activities remotely in the best possible way.
-
-Stay@HomeSK4F helps parents organize educational and engaging activities for their children by providing a **rich library** of educational paths, guides, games, courses, tutorials, experiments, books, articles and other resources of very high quality. All resources are organized by categories and age groups and tagged with topics for quicker search
+Stay@HomeSK4Fits aggregates original content along with existing resources and tools from many sources with a strong focus on **content quality** and **user security**. The users can create original contents and share their experiences and skills. Users will be able to add external already existing high-quality content to the library. The contents of some selected source may be also  automatically imported and indexed in massive mode. 
 
 Companies, educators, schools and other organizations can **contribute to the enrichment of the Stay@HomeSK4F library**. Proposals are evaluated by a experts board  and channel moderators before being made publicly available.
 
@@ -50,7 +48,11 @@ When possible, authors are also invited to suggest how to use recycled and "dome
 
 The purpose of Stay@HomeSK4F is not to sell products or services, but to help communities, children and families to face the difficulties of an unusual situation and a difficult period in the best possible way. 
 
-Stay@HomeSK4Fits a platform that aggregates original content along with existing resources and tools from many sources with a strong focus on **content quality** and **user security**.
+
+### Communication Tools
+Stay@HomeSK4F allows to maintain a high level of social interaction through **various channels and many multimedia communication tools** even without leaving home. Widespread tools product and services are included using plugin and connectors. We have plan to integrate with application for training , virtual classroom, instant messaging , audio and video call, live event, virtual laboratory for collaborative and interactive experiment,  multiplayer game environment.
+
+Families, groups of friends, schools, associations and other types of communities can create **private groups** on Stay@HomeSK4F and use the tools of the platform to continue their activities remotely in the best possible way.
 
 ## Accomplishments that I'm proud of
 
