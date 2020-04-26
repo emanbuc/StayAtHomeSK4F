@@ -34,19 +34,13 @@ To satisfy this widespread need, we thought of creating the *Stay @ Home Kit For
 
 Stay@HomeSK4F allows to maintain a high level of social interaction through **various channels and many multimedia communication tools** even without leaving home. 
 
-The platform includes:
-- message board
-- instant messaging (IRC / #Slack style)
-- audio / video call
-- live event
-- virtual classroom
-- virtual laboratory for collaborative and interactive experiment
-- multiplayer game environment
+The online platform for the community includes a content management system with feedback, comments, moderation, crowd voting, gamefication,  content calatalog, advanced search, and more. 
+Other widespread tools product and services are included using plugin and connectors. We have plan to integrate with application for training , virtual classroom, instant messaging , audio and video call, live event, virtual laboratory for collaborative and interactive experiment,  multiplayer game environment.
+
 
 Families, groups of friends, schools, associations and other types of communities can create **private groups** on Stay@HomeSK4F and use the tools of the platform to continue their activities remotely in the best possible way.
 
 Stay@HomeSK4F helps parents organize educational and engaging activities for their children by providing a **rich library** of educational paths, guides, games, courses, tutorials, experiments, books, articles and other resources of very high quality. All resources are organized by categories and age groups and tagged with topics for quicker search
-
 
 Companies, educators, schools and other organizations can **contribute to the enrichment of the Stay@HomeSK4F library**. Proposals are evaluated by a experts board  and channel moderators before being made publicly available.
 
