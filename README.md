@@ -1,10 +1,10 @@
-# Stay@Home Survival Kit for Families (#StayAtHomeSK4F)
-  is an online platform to help families to engage toddlers and preschool children in educational and social activities when we have to stay at home
-
-The project was born during the hackathon https://euvsvirus.org - https://eunitedvsvirus.devpost.com/ - https://devpost.com/software/stay_at_home_family_kit 
-
+# Stay@Home Survival Kit for Families (#Stay@HomeSK4F)
+*Stay@HomeSK4F* is an online community created to help families with young children spend the days of forced stay together in the most serene way possible.
 
 ## Inspiration (Why)
+The project was created during the hackathon [EUvsVirus](https://euvsvirus.org) by a team of three. We are three parents with children aged between 2 and 4 who try to reconcile work duties with the family life. When The European Commission lauched a pan-European hackathon in order to develop innovative solutions for coronavirus-related challenges, we were already struggling day by day to find hacks to manage remote working, social distancing, business lockdown and school closure.  
+
+When The European Commission lunch a pan-European hackathon in order to develop innovative solutions for coronavirus-related challenges we were already struggling to find hacks every day to manage remote working, social distancing, school lockdown 
 
 La pandemia COVID-19 colpiscie in misura ridotta i bambini dal punto di vista clinico, però ha un impatto importante sulle loro vite. Come genitori ci siamo chiesti quale fosse l’impatto, le conseguenze a lungo termine quali fossero le soluzioni. Basta una semplice ricerca su Google per capire che le nostre preoccupazioni sono condivise da molte altre persone, associazioni, istituzioni e giornali.
 
