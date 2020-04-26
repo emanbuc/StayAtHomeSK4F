@@ -31,7 +31,7 @@ Thanks to the Internet we have found many useful resources, some excellent, othe
 To satisfy this widespread need, we thought of creating the *Stay @ Home Kit For Families project*
 
 ## What it does
-*Stay@HomeSK4F * is a controlled repository and an online community created to help families with children spend their forced stay at home in the most serene way possible. The two main functions of the platform are *the vetted repository with high quality resources* and the *tools to allow relationships and social interactions* to be maintained even while staying at home
+*Stay@HomeSK4F* is a controlled repository and an online community created to help families with children spend their forced stay at home in the most serene way possible. The two main functions of the platform are *the vetted repository with high quality resources* and the *tools to allow relationships and social interactions* to be maintained even while staying at home
 
 The online platform for the community includes a content management system with feedback, comments, moderation, crowd voting, gamefication, content calatalog, advanced search, communication and communication tools, a marketplace and more. 
 
