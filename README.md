@@ -4,18 +4,17 @@
 ## Inspiration (Why)
 The project was created during the hackathon [EUvsVirus](https://euvsvirus.org) by a team of three. We are three parents with children aged between 2 and 4 who try to reconcile work duties with the family life. When The European Commission lauched a pan-European hackathon in order to develop innovative solutions for coronavirus-related challenges, we were already struggling day by day to find hacks to manage remote working, social distancing, business lockdown and school closure.  
 
-When The European Commission lunch a pan-European hackathon in order to develop innovative solutions for coronavirus-related challenges we were already struggling to find hacks every day to manage remote working, social distancing, school lockdown 
+When The European Commission lunch a pan-European hackathon in order to develop innovative solutions for coronavirus-related challenges we were already struggling to find hacks every day to manage remote working, social distancing, school lockdown.
 
-La pandemia COVID-19 colpiscie in misura ridotta i bambini dal punto di vista clinico, però ha un impatto importante sulle loro vite. Come genitori ci siamo chiesti quale fosse l’impatto, le conseguenze a lungo termine quali fossero le soluzioni. Basta una semplice ricerca su Google per capire che le nostre preoccupazioni sono condivise da molte altre persone, associazioni, istituzioni e giornali.
+Sharing our thought with colleagues, relatives, friends and other groups of parents, we realized that all families with children forced to stay at home are facing similar problems to ours. This situation can be difficult to manage and can create tension and disconfort in both adults and children.
 
+As parents, we wondered what is the impact of the COVID-19 pandemic on children and what will be the long-term consequences will be. The amount of articles on the web has convinced us that our concerns are shared by many institutions, associations, newspapers, experts and ordinary people around the world.
 
+As parents, we wondered what is the impact of the COVID-19 pandemic on children and what will be the long-term consequences will be. The type and the amount of results on the web for a search like "[https://www.google.com/search?q=COVID-19%20impact%20on%20kids]COVID-19 impact on kids" has convinced us that our concerns are shared by many institutions, associations, newspapers, experts and ordinary people around the world.
 
+Among all the institutional web pages, for example  [https://www.coe.int/en/web/children/covid-19](the one in the "Childrens Rights" section of the Council of Europe website) provides a summary of useful elements to deal with the situation. 
 
-Il sito web del Consiglio d’Europa nella sezione “Childrens Rights” dedica una pagina molto utile per capire ed affrontare il problema. https://www.coe.int/en/web/children/covid-19 
-
-Confrontandoci con parenti ed amici ed altri gruppi di genitori ci siamo resi conto che le famiglie con bambini devono affrontare una serie di problemi legati al fatto che le scuole sono chiuse ed i bambini sono costretti a restare a casa, mentre i genitori devono in molti casi continuare a lavorare. Queste situazione può essere difficile da gestire e creare tensioni e disagi sia negli adulti che nei bambini. 
-
-Come genitori ci siamo posto l’obiettivo di l’isolamento imposto leggi di distanziamento sociale in un periodo felice trascorso a casa con i genitori. La nostra esperienza personale 
+----------
 
 Per raggiungere lo scopo alle famiglie servono tre cose:
 strumenti di comunicazione per mantenere i rapporti sociali con altri adulti e bambini
