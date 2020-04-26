@@ -28,16 +28,11 @@ To overcome these shortcomings, parents are required to invent new engaging game
 
 It can be difficult for parents to organize educational activities that can involve children. Everything is even more complicated if parents also have to work from home and therefore have little time to organize activities with their children. Parents are busy with housework or struggle to keep focus on their job tasks surrounded by screaming kids, so children often are parked in front of a smartphone or tv for hours.
 
-----------
+To maintain a positive and healthy family atmosphere, children need to play, explore, learn and interact with other people. Parents need help to organize and manage activities with children they were not used to doing before. It would be wonderful if there was a place to find all the tools, courses, books, guides, projects and material already sorted, all of excellent quality and all in one place, in order to save time.
 
-Per raggiungere lo scopo alle famiglie servono tre cose:
-strumenti di comunicazione per mantenere i rapporti sociali con altri adulti e bambini
-supporto per organizzare attività educative e coinvolgenti per i bambini
-il materiale necessario alle attività con in bambini 
+Thanks to the Internet we have found many useful resources, some excellent, others of poor quality. Unfortunately, we have not found a place where the best resources and tools were selected, cataloged and collected all together.
 
-La cosa migliore sarebbe avere tutte e tre le cose già disponibili in maniera ordinata in un solo posto in modo da poter dedicare più tempo possibile ai nostri figli. Servirebbe un Kit di sopravvivenza per famiglie costrette a restare a casa! Da queste riflessioni da nasce il progetto Stay At Home Survival Kit For Families (#Stay@HomeSK4F)
-
---------
+To satisfy this widespread need, we thought of creating the *Stay @ Home Kit For Families project*
 
 ## What it does
 
