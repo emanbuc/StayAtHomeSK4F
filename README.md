@@ -10,9 +10,9 @@ Sharing our thought with colleagues, relatives, friends and other groups of pare
 
 As parents, we wondered what is the impact of the COVID-19 pandemic on children and what will be the long-term consequences will be. The amount of articles on the web has convinced us that our concerns are shared by many institutions, associations, newspapers, experts and ordinary people around the world.
 
-As parents, we wondered what is the impact of the COVID-19 pandemic on children and what will be the long-term consequences will be. The type and the amount of results on the web for a search like [https://www.google.com/search?q=COVID-19%20impact%20on%20kids](COVID-19 impact on kids) has convinced us that our concerns are shared by many institutions, associations, newspapers, experts and ordinary people around the world.
+As parents, we wondered what is the impact of the COVID-19 pandemic on children and what will be the long-term consequences will be. The type and the amount of results on the web for a search like [COVID-19 impact on kids](https://www.google.com/search?q=COVID-19%20impact%20on%20kids) has convinced us that our concerns are shared by many institutions, associations, newspapers, experts and ordinary people around the world.
 
-Among all the institutional web pages, for example  [https://www.coe.int/en/web/children/covid-19](the one in the "Childrens Rights" section of the Council of Europe website) provides a summary of useful elements to deal with the situation. 
+Among all the institutional web pages, for example  [the one in the "Childrens Rights" section of the Council of Europe website](https://www.coe.int/en/web/children/covid-19) provides a summary of useful elements to deal with the situation. 
 
 ----------
 
