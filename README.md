@@ -1,5 +1,5 @@
 # Stay@Home Survival Kit for Families (#Stay@HomeSK4F)
-*Stay@HomeSK4F * is a controlled repository and an online community created to help families with children spend their forced stay at home in the most serene way possible
+*Stay@HomeSK4F* is a controlled repository and an online community created to help families with children spend their forced stay at home in the most serene way possible
 
 ## Inspiration (Why and Who)
 The project was created during the hackathon [EUvsVirus](https://euvsvirus.org) by a team of three. We are three parents with children aged between 2 and 4 who try to reconcile work duties with the family life. When The European Commission lauched a pan-European hackathon in order to develop innovative solutions for coronavirus-related challenges, we were already struggling day by day to find hacks to manage remote working, social distancing, business lockdown and school closure.  
