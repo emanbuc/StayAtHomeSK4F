@@ -4,7 +4,7 @@
 ## Inspiration (Why)
 The project was created during the hackathon [EUvsVirus](https://euvsvirus.org) by a team of three. We are three parents with children aged between 2 and 4 who try to reconcile work duties with the family life. When The European Commission lauched a pan-European hackathon in order to develop innovative solutions for coronavirus-related challenges, we were already struggling day by day to find hacks to manage remote working, social distancing, business lockdown and school closure.  
 
-In the second week of March, the Italian government ordered the closure of all schools and kindergartens. The following day we started taking our children to the office. The company transformed a meeting room into a the ["Kids Room"](https://www.latest.facebook.com/smartpeg/videos/1469890519845591/?v=1469890519845591) where you could work and toke care of your childern at the same time. The Children could also play togheter.
+In the second week of March, the Italian government ordered the closure of all schools and kindergartens. The following day we started taking our children to the office. The company transformed a meeting room into a the ["Kids Room"](https://www.latest.facebook.com/smartpeg/videos/1469890519845591/?v=1469890519845591) where you could work and toke care of your childern at the same time. That sounds great, but working with children was difficult because young children are curious, they want to be involved and continuously require the attention of adults. The children could also play together and the parents helped each other. And at the end of the day we managed to get the work done.
 
 ###PICTURES AND VIDEO
 
