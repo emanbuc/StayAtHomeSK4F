@@ -4,6 +4,11 @@
 ## Inspiration (Why)
 The project was created during the hackathon [EUvsVirus](https://euvsvirus.org) by a team of three. We are three parents with children aged between 2 and 4 who try to reconcile work duties with the family life. When The European Commission lauched a pan-European hackathon in order to develop innovative solutions for coronavirus-related challenges, we were already struggling day by day to find hacks to manage remote working, social distancing, business lockdown and school closure.  
 
+In the second week of March, the Italian government ordered the closure of all schools and kindergartens. The following day we started taking our children to the office. The company transformed a meeting room into a the "Kids Room" where you could work and toke care of your childern at the same time. The Children could also play togheter.
+
+###PICTURES AND VIDEO
+
+
 When The European Commission lunch a pan-European hackathon in order to develop innovative solutions for coronavirus-related challenges we were already struggling to find hacks every day to manage remote working, social distancing, school lockdown.
 
 Sharing our thought with colleagues, relatives, friends and other groups of parents, we realized that all families with children forced to stay at home are facing similar problems to ours. This situation can be difficult to manage and can create tension and disconfort in both adults and children.
@@ -14,6 +19,12 @@ As parents, we wondered what is the impact of the COVID-19 pandemic on children 
 
 Among all the institutional web pages, for example  [the one in the "Childrens Rights" section of the Council of Europe website](https://www.coe.int/en/web/children/covid-19) provides a summary of useful elements to deal with the situation. 
 
+When young children are forced to stay at home they miss the social relations they usually have. They miss school, kindergarten, classmate, teachers,  playground, friends, grandparents, uncles and other people they usually met.
+
+To overcome these shortcomings, parents are required to invent new engaging games and activities every day, while children keep asking to go out and we are all forced to stay at home.
+
+It can be difficult for parents to organize educational activities that can involve children. Everything is even more complicated if parents also have to work from home and therefore have little time to organize activities with their children. Parents are busy with housework or struggle to keep focus on their job tasks surrounded by screaming kids, so children often are parked in front of a smartphone or tv for hours.
+
 ----------
 
 Per raggiungere lo scopo alle famiglie servono tre cose:
@@ -23,11 +34,7 @@ il materiale necessario alle attività con in bambini
 
 La cosa migliore sarebbe avere tutte e tre le cose già disponibili in maniera ordinata in un solo posto in modo da poter dedicare più tempo possibile ai nostri figli. Servirebbe un Kit di sopravvivenza per famiglie costrette a restare a casa! Da queste riflessioni da nasce il progetto Stay At Home Survival Kit For Families (#Stay@HomeSK4F)
 
-When young children are forced to stay at home they miss the social relations they usually have. They miss school, kindergarten, classmate, teachers,  playground, friends, grandparents, uncles and other people they usually met.
-
-To overcome these shortcomings, parents are required to invent new engaging games and activities every day, while children keep asking to go out and we are all forced to stay at home.
-
-It can be difficult for parents to organize educational activities that can involve children. Everything is even more complicated if parents also have to work from home and therefore have little time to organize activities with their children. Parents are busy with housework or struggle to keep focus on their job tasks surrounded by screaming kids, so children often are parked in front of a smartphone or tv for hours.
+--------
 
 ## What it does
 
