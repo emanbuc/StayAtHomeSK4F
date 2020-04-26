@@ -33,21 +33,25 @@ To satisfy this widespread need, we thought of creating the *Stay @ Home Kit For
 ## What it does
 *Stay@HomeSK4F * is a controlled repository and an online community created to help families with children spend their forced stay at home in the most serene way possible. The two main functions of the platform are *the vetted repository with high quality resources* and the *tools to allow relationships and social interactions* to be maintained even while staying at home
 
-The online platform for the community includes a content management system with feedback, comments, moderation, crowd voting, gamefication, content calatalog, advanced search, communication and communication tools and more. 
+The online platform for the community includes a content management system with feedback, comments, moderation, crowd voting, gamefication, content calatalog, advanced search, communication and communication tools, a marketplace and more. 
+
+### We are different
+We appreciate the tutorials on Pinterest or blogs, but we are not a creativity blog. We integrate video conferencing tools, but we are not Slack or Skype. We use virtual classrooms and distance learning, but we are not Google Classroom or Cousera.
+We have link to video in our repository, but we are not Prime Video, YouTube and not even Netflix. Our platform has collaboration and sharing tools, but we are not Google G-Suite and not even Facebook.
+
+The purpose of Stay@HomeSK4F is not to sell products or services. We are a community created to help children, families and communities to face the difficulties of an unusual situation and a difficult period in the best possible way. 
+
 
 ### The repository
 Stay@HomeSK4F helps parents organize educational and engaging activities for their children by providing a **rich library** of educational paths, guides, games, courses, tutorials, experiments, books, articles and other resources of very high quality. All resources are organized by categories and age groups and tagged with topics for quicker search.
 
 Stay@HomeSK4Fits aggregates original content along with existing resources and tools from many sources with a strong focus on **content quality** and **user security**. The users can create original contents and share their experiences and skills. Users will be able to add external already existing high-quality content to the library. The contents of some selected source may be also  automatically imported and indexed in massive mode. 
 
-Companies, educators, schools and other organizations can **contribute to the enrichment of the Stay@HomeSK4F library**. Proposals are evaluated by a experts board  and channel moderators before being made publicly available.
+Companies, educators, schools and other organizations can **contribute to the enrichment of the Stay@HomeSK4F library**. Proposals are evaluated by a experts board  and channel moderators before being made publicly available. 
 
-The authors of the contents are invited to indicate a way to find all the necessary material and can suggest "kits" prepared specifically to facilitate the purchase of the material by the parents. Manufacturers and retailers can promote products and services useful for carrying out the activities in the library within the **Stay@HomeSK4F marketplace**. All listings are rated by channel moderators must comply with the platform regulation.
-
-When possible, authors are also invited to suggest how to use recycled and "domestic" materials commonly available at home (eg how to replace a commercial modeling clay with a homemade one with the recipe attached).
-
-The purpose of Stay@HomeSK4F is not to sell products or services, but to help communities, children and families to face the difficulties of an unusual situation and a difficult period in the best possible way. 
-
+### Marketplace
+The authors of the contents are invited to indicate a way to find all the necessary material and can suggest "kits" prepared specifically to facilitate the purchase of the material by the parents. When possible, authors are also invited to suggest how to use recycled and "domestic" materials commonly available at home (eg how to replace a commercial modeling clay with a homemade one with the recipe attached).
+Manufacturers and retailers can promote products and services useful for carrying out the activities in the library within the **Stay@HomeSK4F marketplace**. All listings are rated by channel moderators must comply with the platform regulation.
 
 ### Communication Tools
 Stay@HomeSK4F allows to maintain a high level of social interaction through **various channels and many multimedia communication tools** even without leaving home. Widespread tools product and services are included using plugin and connectors. We have plan to integrate with application for training , virtual classroom, instant messaging , audio and video call, live event, virtual laboratory for collaborative and interactive experiment,  multiplayer game environment.
