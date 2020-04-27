@@ -64,12 +64,19 @@ Stay@HomeSK4F allows to maintain a high level of social interaction through **va
 
 Families, groups of friends, schools, associations and other types of communities can create **private groups** on Stay@HomeSK4F and use the tools of the platform to continue their activities remotely in the best possible way.
 
-## Accomplishments that I'm proud of
+## Business Plan 
+The purpose of Stay@HomeSK4F is not to sell products or services. We are not a business firm, and we will make use of open soource software and free services, but anyway we will needs some found to keep the project going. We think that we keep the cost very low and rely on the following sources to cover the expense: 
+- user subscription for access premium content
+- publich founding for no profit organization
+- Volunteering works
+- fee from sellers on the marketplace 
 
 ## What I learned
-Ho imparato che alcune cose per me sono ovvie non lo sono per altri e che alcune cose che per me sono difficili per altri sono facili e naturali. Mettendo a disposizione capacità, idee e competenze si possono ottenere benefici importanti per tutti.
-Ho imparato ad utilizzare nuovi strumenti di produttività e collaborazione
+I learned that some things are obvious to me are not obvious to others and that some things that are difficult for me are easy and natural for others. I learned that by providing skills, ideas and skills you can obtain important benefits for all.
+I learned to use new productivity and collaboration tools.
 
-## What's next for stay_at_home_family_kit
-Start building a working online platform from the product concept defined in these days, also integrating other interesting complementary projects that we discovered during the hackathon.
+## What's next 
+We plan to start building a working online platform from the product concept defined in these days, also integrating other interesting complementary projects that we discovered during the hackathon.
+
+The first steps will be completation of the mockup and the selection of the open source CMS/online community platform among the many available.
 
