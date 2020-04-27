@@ -49,6 +49,12 @@ Stay@HomeSK4Fits aggregates original content along with existing resources and t
 
 Companies, educators, schools and other organizations can **contribute to the enrichment of the Stay@HomeSK4F library**. Proposals are evaluated by a experts board  and channel moderators before being made publicly available. 
 
+### Artificial Intelligence and Machine Learning
+Our platform make use of artificial intelligence technologies for two purposes:
+1. help moderators to analyze and classify the contents present in the repository
+2. suggest to users contents or tools based on their profile or previous interactions with the platform (for example the history of the contents explored in the repository)
+To achieve this we plan to use existing AI / ML models that can be used in SaaS mode or those present in open soruce libraries. We planned to do experiments to find the best solution for our needs in the near future.
+
 ### Marketplace
 The authors of the contents are invited to indicate a way to find all the necessary material and can suggest "kits" prepared specifically to facilitate the purchase of the material by the parents. When possible, authors are also invited to suggest how to use recycled and "domestic" materials commonly available at home (eg how to replace a commercial modeling clay with a homemade one with the recipe attached).
 Manufacturers and retailers can promote products and services useful for carrying out the activities in the library within the **Stay@HomeSK4F marketplace**. All listings are rated by channel moderators must comply with the platform regulation.
