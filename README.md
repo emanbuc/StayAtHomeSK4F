@@ -41,6 +41,9 @@ We have link to video in our repository, but we are not Prime Video, YouTube and
 
 The purpose of Stay@HomeSK4F is not to sell products or services. We are a community created to help children, families and communities to face the difficulties of an unusual situation and a difficult period in the best possible way. 
 
+### Noone should be left behind
+Studies carried out by the United Nations, the European Commission and other organizers show that the impact of isolation will be more froth on the children and families who are in conditions of
+discomfort and had already before the pandemic. The most vulnerable people from the social point of view deserve special attention from the community.
 
 ### The repository
 Stay@HomeSK4F helps parents organize educational and engaging activities for their children by providing a **rich library** of educational paths, guides, games, courses, tutorials, experiments, books, articles and other resources of very high quality. All resources are organized by categories and age groups and tagged with topics for quicker search.
